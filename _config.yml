@@ -1,44 +1,62 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Christopher L. Crawford, PhD
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Conservation Scientist.
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://chriscra.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+google_analytics: #"UA-121636368-3"
 
 header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Research
+    - name: CV
+    - name: Misc
     - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: chris.l.crawford@gmail.com
+      link: mailto:chris.l.crawford@gmail.com
+
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: http://twitter.com/_chrisLcrawford
+      username: "@_chrisLcrawford"
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
       link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?user=Xx6VSpoAAAAJ&hl=en
+    - name: Orcid
+      link: https://orcid.org/0000-0001-9101-5360
+
+
+
+# # Site Author
+# author:
+#   name             : "Christopher L. Crawford"
+#   avatar           : "profile.png"
+#   bio              : "Conservation Scientist"
+#   location         : "Philadelphia, PA"
+#   employer         :
+#   pubmed           :
+#   orcid            : "https://orcid.org/0000-0001-9101-5360"
+#   googlescholar    : "https://scholar.google.com/citations?user=Xx6VSpoAAAAJ&hl=en"
+#   email            : "chris.l.crawford@gmail.com"
+#   researchgate     :  # example: "https://www.researchgate.net/profile/Christopher-Crawford-10"
+#   github           : "chriscra"
+#   linkedin         : "chriscra"
+#   stackoverflow    : #"https://stackoverflow.com/users/16409872/christopher-l-crawford"
+#   twitter          : "_chrisLcrawford"
+
 
 # Build settings
 markdown: kramdown
