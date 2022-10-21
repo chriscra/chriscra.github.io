@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of the site
 url: "https://chriscra.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics: #"UA-121636368-3"
+# google_analytics: "UA-121636368-3"
 
 header:
   pages:
@@ -22,8 +22,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: chris.l.crawford@gmail.com
-      link: mailto:chris.l.crawford@gmail.com
+      value: chris.l.crawford [at] gmail.com
+      # link: mailto:chris.l.crawford@gmail.com
 
   follow:
     - name: Twitter
