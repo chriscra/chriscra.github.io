@@ -4,6 +4,8 @@ title: CV
 slug: /cv
 ---
 
+# CV and Resume
+
 Click here for a [pdf version of my CV](/assets/cv/ChristopherCrawford_CV.pdf).
 A short resume can be found [here](/assets/cv/ChristopherCrawford_resume.pdf).
 
