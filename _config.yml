@@ -23,7 +23,8 @@ footer:
   contact:
     - name: Email
       value: ccrawford [at] princeton.edu
-      link: "#"  # mailto:ccrawford@princeton.edu
+      link:  
+      # mailto:ccrawford@princeton.edu
     - name: Location
       value: Philadelphia, PA
       link: https://www.google.com/maps/place/Philadelphia,+PA/
