@@ -22,12 +22,12 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: ccrawford [at] princeton.edu
+      value: chris [dot] L [dot] crawford [at] gmail.com
       link:  
-      # mailto:ccrawford@princeton.edu
+      # mailto:chris.l.crawford@gmail.com
     - name: Location
-      value: Philadelphia, PA
-      link: https://www.google.com/maps/place/Philadelphia,+PA/
+      value: Arlington, VA
+      link: https://www.google.com/maps/place/Arlington,+VA/
 
   follow:
     - name: Twitter
