@@ -33,13 +33,16 @@ Read on for more details on some of my most recent projects.
 
 ## Selected research publications
 
-1. Crawford CL, Wiebe RA, Yin H, Radeloff VC, Wilcove DS. (2024). Biodiversity consequences of cropland abandonment. Nature Sustainability 7, 1596–1607. https://doi.org/10.1038/s41893-024-01452-1 (Issue Cover Article).
-2. Zeng Y, Senior RA, Crawford CL, & Wilcove DS. (2023). Gaps and weaknesses in the global protected area network for safeguarding at-risk species. Science Advances 9, eadg0288. https://doi.org/10.1126/sciadv.adg0288 
-3. Ma L, Conradie SR, Crawford CL, Gardner AS, Kearney MR, Maclean IMD, McKechnie AE, Mi CR, Senior RA, & Wilcove DS. (2023). Global Patterns of Climate Change Impacts to Desert Bird Communities. Nature Communications, 14, 211. https://doi.org/10.1038/s41467-023-35814-8 
-4. Crawford CL, Yin H, Radeloff VC, & Wilcove DS. (2022). Rural land abandonment is too ephemeral to provide major benefits for biodiversity and climate. Science Advances, 8(21). https://doi.org/10.1126/sciadv.abm8999 
-5. Crawford CL, Estes LD, Searchinger TD, & Wilcove DS. (2021). Consequences of under-explored variation in biodiversity indices used for land-use prioritization. Ecological Applications, 31(7): e02396. https://doi.org/10.1002/eap.2396
-6. Crawford CL^, Volenec ZM^, Sisanya M, Kibet R, & Rubenstein DI. (2018). Behavioral and Ecological Implications of Bunched, Rotational Cattle Grazing in East African Savanna Ecosystem. Rangeland Ecology & Management, 72(1):204-209. https://doi.org/10.1016/j.rama.2018.07.016 (^Co-lead author.)
-7. Price JJ, & Crawford CL. (2013). Use and characteristics of two singing modes in Pine Warblers. The Wilson Journal of Ornithology, 125(3):552-561. https://doi.org/10.1676/13-006.1
+1. Crawford CL, Wiebe RA, Yin H, Radeloff VC, Wilcove DS. (2024). Biodiversity consequences of cropland abandonment. *Nature Sustainability* 7, 1596–1607. [https://doi.org/10.1038/s41893-024-01452-1](https://doi.org/10.1038/s41893-024-01452-1) (Issue Cover Article).
+2. Zeng Y, Senior RA, Crawford CL, & Wilcove DS. (2023). Gaps and weaknesses in the global protected area network for safeguarding at-risk species. *Science Advances* 9, eadg0288. [https://doi.org/10.1126/sciadv.adg0288](https://doi.org/10.1126/sciadv.adg0288) 
+3. Ma L, Conradie SR, Crawford CL, Gardner AS, Kearney MR, Maclean IMD, McKechnie AE, Mi CR, Senior RA, & Wilcove DS. (2023). Global Patterns of Climate Change Impacts to Desert Bird Communities. *Nature Communications*, 14, 211. [https://doi.org/10.1038/s41467-023-35814-8](https://doi.org/10.1038/s41467-023-35814-8) 
+4. Crawford CL, Yin H, Radeloff VC, & Wilcove DS. (2022). Rural land abandonment is too ephemeral to provide major benefits for biodiversity and climate. *Science Advances*, 8(21). [https://doi.org/10.1126/sciadv.abm8999](https://doi.org/10.1126/sciadv.abm8999) 
+5. Crawford CL, Estes LD, Searchinger TD, & Wilcove DS. (2021). Consequences of under-explored variation in biodiversity indices used for land-use prioritization. *Ecological Applications*, 31(7): e02396. [https://doi.org/10.1002/eap.2396](https://doi.org/10.1002/eap.2396)
+6. Crawford CL^, Volenec ZM^, Sisanya M, Kibet R, & Rubenstein DI. (2018). Behavioral and Ecological Implications of Bunched, Rotational Cattle Grazing in East African Savanna Ecosystem. *Rangeland Ecology & Management*, 72(1):204-209. [https://doi.org/10.1016/j.rama.2018.07.016](https://doi.org/10.1016/j.rama.2018.07.016) (^Co-lead author.)
+7. Price JJ, & Crawford CL. (2013). Use and characteristics of two singing modes in Pine Warblers. *The Wilson Journal of Ornithology*, 125(3):552-561. [https://doi.org/10.1676/13-006.1](https://doi.org/10.1676/13-006.1)
+
+**Princeton Dissertation, May 2022**: [Agriculture in flux, biodiversity in the balance: conservation implications of cropland expansion and abandonment](https://dataspace.princeton.edu/handle/88435/dsp0141687m68v).
+Advisor: [David S. Wilcove](https://dwilcove.scholar.princeton.edu/), Princeton University
 
 ## Using metrics of biodiversity to minimize the impact of agricultural expansion
 

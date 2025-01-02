@@ -12,5 +12,8 @@ In May 2022, I defended my dissertation in environmental policy, titled ["*Agric
 
 Prior to graduate school, I worked at the environmental nonprofit [Sustainable Conservation](https://suscon.org/) in San Francisco, working to encourage river restoration in California’s Central Valley and prevent the use of invasive plants in gardening and landscaping through the [PlantRight](https://plantright.org/) program.
 A proud Michigander, I grew up in East Lansing, MI and graduated from the [University of Michigan](https://umich.edu/) with a degree in ecology & evolutionary biology in 2012.
-I now live in Arlington, VA with my wife, daughter, and dog.
-In my free time, I enjoy baking sourdough, looking for birds, listening to Swedish music, and taking photos of clouds.
+I now live in Arlington, VA with my wife, 1-year-old daughter, and dog.
+In my free time, I enjoy playing peekaboo with my daughter, baking sourdough, looking for birds, listening to Swedish music, and taking photos of clouds.
+
+![Chris, 2019, having achieved pony-tail status.](/assets/img/photos/DSC_3782-egan.jpg)
+An old photo of Chris from his graduate school days, taken by Egan Jimenez (Princeton University) on December 10th, 2019, at the Princeton University Art Museum.
