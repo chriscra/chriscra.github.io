@@ -28,8 +28,18 @@ My research has focused on questions related to the environmental trade-offs the
 - Where will these transitions present opportunities for habitat regeneration in former croplands, and how might policies be designed to harness these opportunities and encourage regeneration?
 - In places where agricultural expansion is necessary, can spatial land-use prioritization tools help minimize biodiversity loss?
 
-My work has been published in journals such as [*Science Advances*](https://doi.org/10.1126/sciadv.abm8999) and [*Ecological Applications*](https://doi.org/10.1002/eap.2396), and covered by outlets like [*BioScience*](https://doi.org/10.1093/biosci/biac030), [Bloomberg](https://www.bloomberg.com/news/articles/2022-05-25/abandoned-farms-can-grow-trees-fight-climate-change), and [The Hill](https://thehill.com/policy/equilibrium-sustainability/3500618-restoring-abandoned-farms-could-help-mitigate-climate-change-study/).
+My work has been published in journals such as [*Nature Sustainability*](https://rdcu.be/dYl9K), [*Science Advances*](https://doi.org/10.1126/sciadv.abm8999), and [*Ecological Applications*](https://doi.org/10.1002/eap.2396), and covered by outlets like [*BioScience*](https://doi.org/10.1093/biosci/biac030), [Bloomberg](https://www.bloomberg.com/news/articles/2022-05-25/abandoned-farms-can-grow-trees-fight-climate-change), and [The Hill](https://thehill.com/policy/equilibrium-sustainability/3500618-restoring-abandoned-farms-could-help-mitigate-climate-change-study/).
 Read on for more details on some of my most recent projects.
+
+## Selected research publications
+
+1. Crawford CL, Wiebe RA, Yin H, Radeloff VC, Wilcove DS. (2024). Biodiversity consequences of cropland abandonment. Nature Sustainability 7, 1596–1607. https://doi.org/10.1038/s41893-024-01452-1 (Issue Cover Article).
+2. Zeng Y, Senior RA, Crawford CL, & Wilcove DS. (2023). Gaps and weaknesses in the global protected area network for safeguarding at-risk species. Science Advances 9, eadg0288. https://doi.org/10.1126/sciadv.adg0288 
+3. Ma L, Conradie SR, Crawford CL, Gardner AS, Kearney MR, Maclean IMD, McKechnie AE, Mi CR, Senior RA, & Wilcove DS. (2023). Global Patterns of Climate Change Impacts to Desert Bird Communities. Nature Communications, 14, 211. https://doi.org/10.1038/s41467-023-35814-8 
+4. Crawford CL, Yin H, Radeloff VC, & Wilcove DS. (2022). Rural land abandonment is too ephemeral to provide major benefits for biodiversity and climate. Science Advances, 8(21). https://doi.org/10.1126/sciadv.abm8999 
+5. Crawford CL, Estes LD, Searchinger TD, & Wilcove DS. (2021). Consequences of under-explored variation in biodiversity indices used for land-use prioritization. Ecological Applications, 31(7): e02396. https://doi.org/10.1002/eap.2396
+6. Crawford CL^, Volenec ZM^, Sisanya M, Kibet R, & Rubenstein DI. (2018). Behavioral and Ecological Implications of Bunched, Rotational Cattle Grazing in East African Savanna Ecosystem. Rangeland Ecology & Management, 72(1):204-209. https://doi.org/10.1016/j.rama.2018.07.016 (^Co-lead author.)
+7. Price JJ, & Crawford CL. (2013). Use and characteristics of two singing modes in Pine Warblers. The Wilson Journal of Ornithology, 125(3):552-561. https://doi.org/10.1676/13-006.1
 
 ## Using metrics of biodiversity to minimize the impact of agricultural expansion
 
@@ -83,4 +93,8 @@ Along with the difficulty of tracking abandonment through time and space, this v
 In this project, we combined our cutting-edge land cover time series with habitat and distribution data for >2000 species of birds and mammals to investigate how abandonment, secondary succession, and recultivation affected the area of habitat available for individual species of birds and mammals. 
 Our results indicate that cropland abandonment resulted in habitat gains for the majority of species at our sites, but rarely compensated for habitat loss due to other factors, particularly ongoing habitat loss and recultivation of abandoned lands.
 Despite the substantial potential for abandonment to benefit the species we considered, limiting recultivation and reducing habitat loss remains critical for the future of biodiversity. 
-We're wrapping this work up now, so stay tuned for a forthcoming publication.
+
+This work was published in [Nature Sustainability](https://doi.org/10.1038/s41893-024-01452-1) and was featured on the cover of the December 2024 issue! 
+Click here for [*an open access version of our article*](https://rdcu.be/dYl9K).
+
+![Nature Sustainability, December 2024 Issue Cover.](/assets/img/photos/Nat_Sust_7_12_Dec_2024_cover.png)
